@@ -1,7 +1,7 @@
 {% set name = "nano" %}
-{% set version = "2.9.7" %}
+{% set version = "2.9.8" %}
 {% set major_minor = version.rpartition('.')[0] %}
-{% set sha256 = "b64ab017305b1777e97b5b9b07b31db8aeebfc3e8719f61e8da1cf3866d344bd" %}
+{% set sha256 = "c2deac31ba4d3fd27a42fafcc47ccf499296cc69a422bbecab63f2933ea85488" %}
 
 package:
   name: {{ name|lower }}
