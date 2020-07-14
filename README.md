@@ -5,7 +5,7 @@ Home: https://www.nano-editor.org/
 
 Package license: GPLv3
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Nano's ANOther editor, an enhanced free Pico clone
 
@@ -29,7 +29,7 @@ Current build status
     <td>Drone</td>
     <td>
       <a href="https://cloud.drone.io/conda-forge/nano-feedstock">
-        <img alt="linux" src="https://img.shields.io/drone/build/conda-forge/master.svg?label=Linux">
+        <img alt="linux" src="https://img.shields.io/drone/build/conda-forge/nano-feedstock/master.svg?label=Linux">
       </a>
     </td>
   </tr>
