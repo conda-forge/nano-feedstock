@@ -18,13 +18,9 @@ build:
 requirements:
   build:
     - {{ compiler('c') }}
-    - autoconf
     - make
     - pkg-config
   host:
-    - libiconv
-    - ncurses
-  run:
     - ncurses
 
 test:
