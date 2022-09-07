@@ -25,7 +25,6 @@ requirements:
     - libiconv
     - ncurses
   run:
-    - libiconv
     - ncurses
 
 test:
