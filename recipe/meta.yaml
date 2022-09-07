@@ -25,7 +25,8 @@ requirements:
 
 test:
   commands:
-    - nano -h
+    - nano -h  # [build_platform == target_platform]
+    - test -f $PREFIX/bin/nano
 
 about:
   home: https://www.nano-editor.org/
